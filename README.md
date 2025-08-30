@@ -20,6 +20,24 @@ v2ray_kr 致力于为用户提供优质的网络代理服务信息，包括：
 4. 在您的代理客户端中添加订阅
 5. 享受稳定的网络服务
 
+
+## 🚀 以下是可用的小火箭(Shadowrocket)账号获取网站：
+
+
+- **[https://idfree.top/](https://idfree.top/)**
+
+- **[https://idshare.me/](https://idshare.me/)**
+
+- **[https://gososhare2d6.com/](https://gososhare2d6.com/)**
+
+- **[https://idshare001.me/](https://idshare001.me/)**
+
+- **[https://ccbaohe.com/appleID/](https://ccbaohe.com/appleID/)**
+
+- **[https://free.mayun.us/](https://free.mayun.us/)** 
+  - 🔑 **密码：4018**
+
+
 ## ⚠️ 免责声明
 
 本项目仅供学习交流使用，请遵守当地法律法规。使用者需要自行承担使用风险。
