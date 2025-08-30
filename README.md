@@ -38,6 +38,31 @@ v2ray_kr 致力于为用户提供优质的网络代理服务信息，包括：
   - 🔑 **密码：4018**
 
 
+## 工具下载
+
+V2RayN Windows 客户端：[点击下载](https://github.com/2dust/v2rayN/releases)
+
+V2Ray 安卓客户端：[点击下载](https://github.com/2dust/v2rayNG/releases)
+
+Clash Windows端：[点击下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
+Clash Windows汉化地址：[点击下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
+
+Clash安卓客户端：[点击下载](https://github.com/naicfeng/ClashRForAndroid/releases)
+
+Clash .NET电脑客户端：[点击下载](https://github.com/ClashDotNetFramework/experimental-clash/releases)
+
+WinXray Windows 客户端：[点击下载](https://github.com/TheMRLL/WinXray/releases)
+
+====================================================
+
+## 工具使用教程
+
+v2rayN使用教程：[点击查看](https://youtu.be/MvJwoEo6-JU)
+
+shadowrocket使用教程：[点击查看](https://youtu.be/kGKKr6WTrJc)
+
+====================================================
 
 ## 📞 联系我们
 
